@@ -1,15 +1,15 @@
 # SoftChain-TEST
 
+<b>For Code Resource GO TO [Here](https://github.com/HangyuYe)</b>
+<b>This Repositorie is not active at this time!</b>
+
 <p><b>SoftChain Ethereum Wallet for iOS </b></p>
 
 ## Getting Started
 
 1⃣️Go to our website and submit application form.
-
-2⃣️Here is the [LINK](https://softchain.io/tester)
-
+2⃣️Here is the <a harf="https://softchain.io/tester"> LINK</a>
 3⃣️Use TestFlight.app to redeem SoftChain on you device.
-
 
 ### Features
 Currently supported Ethererm(not fully tested).
