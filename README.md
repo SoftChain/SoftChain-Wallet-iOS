@@ -6,7 +6,7 @@
 
 1⃣️Go to our website and submit application form.
 
-2⃣️Here is the <a harf="https://softchain.io/tester">LINK</a>
+2⃣️Here is the [LINK]("https://softchain.io/tester")
 
 3⃣️Use TestFlight.app to redeem SoftChain on you device.
 
