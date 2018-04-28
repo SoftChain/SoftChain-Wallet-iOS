@@ -17,7 +17,7 @@
 ### Features
 Currently supported Ethererm(not fully tested).
 
-* <b>e will support QuarkChain Chain Soon.</b>
+* <b>We will support QuarkChain Chain Soon.</b>
 
 * Private keys <b>never</b> leave the device and stored in keychain in password protected UTC format
 * Simple iOS design.
