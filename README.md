@@ -9,12 +9,15 @@
 ## Getting Started
 
 1⃣️Go to our website and submit application form.
-2⃣️Here is the <a harf="https://softchain.io/tester"> LINK</a>
+
+2⃣️Here is the <a harf="https://softchain.io/tester"> LINK
+  
 3⃣️Use TestFlight.app to redeem SoftChain on you device.
 
 ### Features
 Currently supported Ethererm(not fully tested).
-We will support QuarkChain Soon.
+
+#### We will support QuarkChain Chain Soon.
 
 * Private keys <b>never</b> leave the device and stored in keychain in password protected UTC format
 * Simple iOS design.
